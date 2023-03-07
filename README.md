@@ -3,7 +3,7 @@ Welcome
 
 This wiki is based on [Fedora Workstation](https://getfedora.org/en/workstation/) Linux, currently at version 37
 
-This is how i configure my personal development environment for Full Stack Development. Some programs not listed here, is already installed by default with Fedora and Gnome.
+My personal development environment setup for Full Stack Development. Some programs not listed here, is already installed by default with Fedora and Gnome.
 
 ## Why did i create this simple wiki?
 I created it for my personal consultation and reference. Fedora releases a new version every 6 months. With each release I created a personal wiki on my computer. By putting it on Github I can update, maintain history and view the wiki from any device. 
